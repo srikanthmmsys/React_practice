@@ -1,0 +1,15 @@
+.background{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.leftbackground{
+  border: solid blue;
+  border-radius: 2px;
+  padding: 150px;
+}
+.rightbackground{
+  border: solid blue;
+  border-radius: 2px;
+  padding: 150px;
+}

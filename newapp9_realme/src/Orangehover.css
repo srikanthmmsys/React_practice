@@ -1,0 +1,190 @@
+.orangeHover {
+  color: black;
+  padding-top: 5px;
+  display: inline;
+}
+.orangeHover:hover {
+  color: yellow;
+}
+.flexl {
+  display: flex;
+  text-align: left;
+}
+.flexr {
+  display: flex;
+  justify-content: flex-end;
+  float: right;
+}
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+.line {
+  padding: 5px;
+}
+nav {
+  position: sticky;
+  top: 0;
+}
+.quick {
+  height: 150px;
+}
+
+.quick:hover{
+  
+  transform:rotate(20deg);
+}
+.quicker:hover{
+  transform:scaley(2);
+}
+.quickfont {
+  font-weight: bold;
+}
+.Appback {
+  background-color: rgb(219, 236, 250);
+}
+.BestChildBack {
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin: 5px;
+}
+.festivalhead {
+  margin-left: 100px;
+}
+.fanimg {
+  margin-left: 110px;
+  width: 85%;
+  border-radius: 10px;
+}
+.effect:hover {
+  transform: translate(0, -1px);
+}
+#backgroundimg {
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+.border {
+  border-radius: 10px;
+  margin-left: 110px;
+  background-color: #ffffff;
+}
+.border1 {
+  border-radius: 10px;
+  background-color: #ffffff;
+ 
+}
+.discount {
+  border-radius: 20px;
+  width: 16%;
+  transition: 1s;
+}
+.discount:hover{
+  width: 40%;
+}
+.discount1 {
+  border-radius: 15px;
+  width: 20%;
+  transition: 1s;
+}
+.discount1:hover{
+  width: 50%;
+}
+.discount2 {
+  border-radius: 20px;
+  width: 85%;
+}
+.bestsellingimg {
+  background-image: url("https://res.cloudinary.com/dx0fji5gh/image/upload/v1661582915/realme/bsp1_lxtu1o.webp");
+  background-size: cover;
+  height: 102vh;
+  width: 100%;
+}
+
+.bestsellingimg1 {
+  background-image: url("https://res.cloudinary.com/dx0fji5gh/image/upload/v1661584973/realme/bsp2_twojt4.webp");
+  background-size: cover;
+  height: 49vh;
+}
+.bestsellingimg2 {
+  background-image: url("https://res.cloudinary.com/dx0fji5gh/image/upload/v1661585193/realme/bsp3_isdafp.webp");
+  background-size: cover;
+  height: 49vh;
+}
+/* .recomendedimg{
+width: 20%;
+height: 20%;
+} */
+.card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 20%;
+  height: 60%;
+}
+.rimg {
+  width: 450px;
+  height: 385px;
+  border-radius: 10px;
+}
+.rimg1 {
+  width: 450px;
+  height: 375px;
+  border-radius: 10px;
+}
+.card1 {
+  padding-top: 30px;
+  padding-bottom: 18px;
+}
+.newarrivalbackground {
+  width: 50vw;
+}
+.Smartlifeborder {
+  border-style: solid black;
+  /* border-bottom-style: solid black; */
+  border-width: 5px;
+  transition: 1s;
+}
+#headdi{
+    /* display: none; */
+    transition-delay: 1s;
+}
+#headdi1{
+    transition-delay: 1s;
+}
+#personalcare{
+    text-decoration: underline;
+}
+.Appback1{
+    background-color: #ffffff;
+}
+nav{
+    z-index:1;
+}
+.navb{
+    height: 45px;
+}
+.imgcard{
+  background-color: rgb(219, 236, 250);
+  
+  border-radius: 20px;
+}
+.downspace{
+  margin-bottom: 90px;
+}
+.chatbutton{
+  border-width: 1px black;
+  background-color: transparent;
+  border-radius: 20px;
+  font-weight: bold;
+  transition: 0.5s;
+}
+.chatbutton:hover{
+  background-color: black;
+  color: #ffffff;
+}
+
+
+ .navrs:hover .navimg{
+display: none;
+}
